@@ -1,0 +1,13 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="data07.mysql_bbs_crud사용.bbs_crud.mysql_bbs" />
+          <option value="data07.network연결.네이버영화.mysql_movie" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
